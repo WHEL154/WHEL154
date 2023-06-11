@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WHEL154
 - 👀 I’m interested in games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me hello
 
