@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WHEL154
+- 👋 Hi, I’m WHEL154 or Farrel
 - 👀 I’m interested in games
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on stuff
